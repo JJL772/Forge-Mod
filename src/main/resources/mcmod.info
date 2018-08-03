@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AdvancedTech",
+  "name": "Advanced Technology",
+  "description": "Adds various machines, ores, etc. to the game.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JJl77"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
