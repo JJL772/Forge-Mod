@@ -1,14 +1,14 @@
 [
 {
-  "modid": "AdvancedTech",
-  "name": "Advanced Technology",
-  "description": "Adds various machines, ores, etc. to the game.",
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["JJl77"],
-  "credits": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
